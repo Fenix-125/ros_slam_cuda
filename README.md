@@ -1,6 +1,6 @@
 <!-- Tamplate uset from https://www.makeareadme.com/ -->
 
-# ros_slam_cuda
+# ROS packege for SLAM using Nvidia CUDA
 
 AI course project: SLAM for ROS using CUDA acceleration. <br/>
 **ros_slam_cuda** is a [ROS melodic](http://wiki.ros.org/melodic) package for dealing with standard [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) problem. The package is developed to be run on NVIDIA GPU using CUDA API.
@@ -8,6 +8,10 @@ AI course project: SLAM for ROS using CUDA acceleration. <br/>
 ## Installation
 
 Not supported yet.
+
+#### Usful links:
+- [NVIDIA docker support](https://www.celantur.com/blog/run-cuda-in-docker-on-linux/)
+
 <!--
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
@@ -38,6 +42,7 @@ Please make sure to update the tests as appropriate.
 
 ```{text}
 Title: short title name
+
 Issue: #numeber
 Description:
 - first bullet
